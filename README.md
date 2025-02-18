@@ -26,3 +26,17 @@ public class ${NAME} {
     }
 }
 ```
+## Live templates
+### JUnit
+> Create JUnit template test
+```<java>
+@Test
+public void should(){
+// given
+
+// when
+
+// then
+
+}
+```
